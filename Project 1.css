@@ -1,0 +1,60 @@
+			* {
+				<!--border: 2px solid black;-->
+				Font-size: 14px;
+			}
+			p, li{
+				Font-size: 14px;
+				line-height: 1;
+			}
+			h3{
+				line-height: 1;
+			}
+			.Contact
+			{
+				float: left;
+				width: 440px;
+			}
+			.Personal
+			{
+				clear: both;
+				float: left;
+			}
+			img 
+			{
+				float: right;
+				width: 207px;
+				position: absolute;
+				right: 680px;
+				image-orientation: 90deg;
+			}
+			.rotateimg10 {
+				webkit-transform:rotate(-3deg);
+				moz-transform: rotate(-3deg);
+				ms-transform: rotate(-3deg);
+				o-transform: rotate(-3deg);
+				transform: rotate(-3deg);
+			}
+			.Cat
+			{
+				float: left;
+				margin: 30px 40px 20px 60px;
+				padding-top: 0px;
+				width: 100px;
+				height: 110px;
+				border-right: 2px solid grey;
+			}
+			.Info{
+				position: absolute;
+				display: inline;
+				clear: both;
+				margin-top: 10px;
+			}
+			.Bio {
+				Font-size: 14px;
+				color: grey;
+			}
+			#Edl{
+				display: inline;
+				color: grey;
+				margin-left: 100px;
+			}
